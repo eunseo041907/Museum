@@ -1,0 +1,7 @@
+{
+  "name": "Pearce Museum",
+  "description": "A metaverse art gallery combining AI-driven interactions, real-time weather effects, and a virtual art economy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
